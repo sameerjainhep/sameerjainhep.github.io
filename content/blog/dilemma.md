@@ -40,7 +40,7 @@ On the flip side, take the series:
 $$
 \sum_{n=1}^{\infty} \frac{1}{n^2}.
 $$
-
+[website](https://fdamp.mponline.gov.in/portal/home.aspx)
 This one is much better behaved. The terms decrease quickly enough, and guess what? The partial sums approach a finite value as $n$ grows larger. In fact, this series converges to **$\frac{\pi^2}{6}$** (an elegant result that’s been kicking around since Euler was in diapers).
 
 So, as you can see, the infinite series has two distinct personalities: the well-behaved, convergent types that settle down into neat sums, and the wild, divergent ones that never know when to quit. It’s like the difference between a relaxing Sunday afternoon and a party that never ends.
