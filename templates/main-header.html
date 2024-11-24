@@ -1,0 +1,45 @@
+    <header class="main-header">
+      <a href="/img/sameer.jpg">
+        <img src="/img/sameer-square.jpg"
+             alt="A close-up photo of sameer smiling."
+             width="125"
+             height="125" />
+      </a>
+      <div>
+        <h1>
+          <a href="/">
+            Sameer Jain</a>
+          {% if section.title != "Home" %}
+          / {{ section.title }}
+          {% endif %}
+          <span class="pronouns">(he/him)</span>
+        </h1>
+        <ul class="links">
+          <li>
+            <i class="fa-solid fa-file"></i>
+            <a href="/assets/sameer-cv.pdf"
+               title="Curriculum Vitae">CV</a>
+          </li>
+          <li>
+            <i class="fa-solid fa-envelope"></i>
+            <a href="mailto:sameerjainofficial@gmail.com"
+               title="Email">sameerjainofficial@gmail.com</a>
+          </li>
+          <li>
+            <i class="fa-brands fa-orcid"></i>
+            <a href="https://orcid.org/0009-0005-0398-7714"
+               title="Orcid">Orcid</a>
+          </li>
+          <li>
+            <i class="fa-brands fa-linkedin"></i>
+            <a href="https://www.linkedin.com/in/sameer-jain-219215255"
+               title="Linkedin">Linkedin</a>
+          </li>
+        </ul>
+        <div class="narrow">
+          <span><strong>Primary area:</strong> Light front dynamics</span>
+          <span class="sep">◦</span>
+          <span><strong>Secondary area:</strong> String theory</span>
+        </div>
+      </div>
+    </header>
