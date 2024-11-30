@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://sameerjainhep.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://sameerjainhep.github.io/blog/</loc>
+    </url>
+    <url>
+        <loc>https://sameerjainhep.github.io/inspire/</loc>
+    </url>
+    <url>
+        <loc>https://sameerjainhep.github.io/inspire/point-hyperplane/</loc>
+        <lastmod>2023-05-29</lastmod>
+    </url>
+    <url>
+        <loc>https://sameerjainhep.github.io/research/</loc>
+    </url>
+    <url>
+        <loc>https://sameerjainhep.github.io/resources/</loc>
+    </url>
+    <url>
+        <loc>https://sameerjainhep.github.io/resources/resources-data/</loc>
+        <lastmod>2023-05-29</lastmod>
+    </url>
+</urlset>
